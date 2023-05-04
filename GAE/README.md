@@ -8,7 +8,7 @@ espace is broken down into different parts for DGGS grid cell identifiers, whole
 This space is administered by:  
 
 **Anahita Pakiman**  
-*Data Systems Architect*  
+*Researcher*  
 [CAEWebVis] (https://caewebvis.scai.fraunhofer.de/)  
 ANahita Pakiman 
 <nanahita.pakiman@scai.fraunhofer.de>  
